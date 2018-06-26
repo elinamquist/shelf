@@ -1,0 +1,6 @@
+c:\users\elinam quist\documents\visual studio 2013\Projects\shelf\shelf\bin\Debug\shelf.exe.config
+c:\users\elinam quist\documents\visual studio 2013\Projects\shelf\shelf\bin\Debug\shelf.exe
+c:\users\elinam quist\documents\visual studio 2013\Projects\shelf\shelf\bin\Debug\shelf.pdb
+c:\users\elinam quist\documents\visual studio 2013\Projects\shelf\shelf\obj\Debug\shelf.csprojResolveAssemblyReference.cache
+c:\users\elinam quist\documents\visual studio 2013\Projects\shelf\shelf\obj\Debug\shelf.exe
+c:\users\elinam quist\documents\visual studio 2013\Projects\shelf\shelf\obj\Debug\shelf.pdb
